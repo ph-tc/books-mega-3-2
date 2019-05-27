@@ -379,7 +379,7 @@ body {
 	}
 }
 
-@media screen and (max-height: 630px) {
+@media screen and (max-height: 640px) {
 	.selects-wrapper .select:nth-child(3) {
 		display: none;
 	}
